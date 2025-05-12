@@ -199,7 +199,7 @@ To containerize and run the API using Docker:
 ☁️ **AWS EC2**: Cloud hosting for making the API accessible globally.
 
 ## Contributors
-👨‍💻 **Bhavyam Ramani , Smit Shah , Ajwad Ansari , Swarangi**
+👨‍💻 **Bhavyam Ramani , Smit Shah , Ajwad Ansari , Swarangi Gawli**
 
 ## License
 This project is licensed under the MIT License.
